@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="FitnessTracker.Business\" />
+    <Folder Include="FitnessTracker.DataAccess\" />
+    <Folder Include="FitnessTracker.Presentation\" />
+  </ItemGroup>
+
 </Project>
